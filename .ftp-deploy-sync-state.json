@@ -1,0 +1,2261 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1705496092089,
+    "data": [
+        {
+            "type": "folder",
+            "name": "admin"
+        },
+        {
+            "type": "folder",
+            "name": "assets"
+        },
+        {
+            "type": "file",
+            "name": "changes-log.txt",
+            "size": 182,
+            "hash": "4d4902fcdbdf3fb9aad64f83f046bd2d58d1dec973e8f0177cde9ec6c8c66f7c"
+        },
+        {
+            "type": "folder",
+            "name": "elementor"
+        },
+        {
+            "type": "folder",
+            "name": "inc"
+        },
+        {
+            "type": "folder",
+            "name": "lib"
+        },
+        {
+            "type": "folder",
+            "name": "wp-widgets"
+        },
+        {
+            "type": "file",
+            "name": "xgenious-master.php",
+            "size": 2238,
+            "hash": "b72babc244ddc18bffe3823c1537bafc30e4df122b770d62416e6a2f04c5ae36"
+        },
+        {
+            "type": "folder",
+            "name": "admin/assets"
+        },
+        {
+            "type": "file",
+            "name": "admin/class-custom-post-type.php",
+            "size": 3277,
+            "hash": "aff23b41f2503c8e0bc45fc7a5b11256e120eeebf793394f42e877ff13859567"
+        },
+        {
+            "type": "file",
+            "name": "admin/class-menu-page.php",
+            "size": 8150,
+            "hash": "c521cb4c1fb958f0cdaa9d3c22ad7506fd865cbb0fd6878272b15b22a508355a"
+        },
+        {
+            "type": "file",
+            "name": "admin/class-post-column-customize.php",
+            "size": 4304,
+            "hash": "bc49709dc3ee5c0e74033559f27dd98d4f52140cf5ce778295633f44cecd2ffe"
+        },
+        {
+            "type": "folder",
+            "name": "admin/partials"
+        },
+        {
+            "type": "folder",
+            "name": "assets/css"
+        },
+        {
+            "type": "folder",
+            "name": "assets/fonts"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img"
+        },
+        {
+            "type": "folder",
+            "name": "assets/js"
+        },
+        {
+            "type": "file",
+            "name": "elementor/.DS_Store",
+            "size": 10244,
+            "hash": "0529e3bc8c7c27eefdb0537ad96220d80f841e093e660e418be3c3acd4b9e245"
+        },
+        {
+            "type": "file",
+            "name": "elementor/class-elementor-widget-init.php",
+            "size": 7798,
+            "hash": "17c9e5bcca98ca74f37b049e95fc1cf03f66a9ef97015a8b32683762b12ae4ee"
+        },
+        {
+            "type": "folder",
+            "name": "elementor/widgets"
+        },
+        {
+            "type": "file",
+            "name": "inc/ajax-request.php",
+            "size": 7558,
+            "hash": "1915fdc45a032b809bb12e93f679dd2f1a94f16e65d1dc42adb08dcc8decbe7d"
+        },
+        {
+            "type": "file",
+            "name": "inc/class-envato.php",
+            "size": 17887,
+            "hash": "a5b4c31d4d53093810ccca2246dbeee9ba3a7a03cb7f5b6c7f4dedb0b1c1fe78"
+        },
+        {
+            "type": "file",
+            "name": "inc/class-cron-job.php",
+            "size": 12256,
+            "hash": "079506a1dffcca013ea15f42e9b931a11098834f0d9969435a01ed441b94421a"
+        },
+        {
+            "type": "file",
+            "name": "inc/class-xgenious-excerpt.php",
+            "size": 1922,
+            "hash": "e879cb6779dd6ddd18bbb0df6627bb48f03e63bb71a2c94390c5646e83eb2a61"
+        },
+        {
+            "type": "file",
+            "name": "inc/class-xgenious-helper-functions.php",
+            "size": 23211,
+            "hash": "a4ab9a3b45b60af46df624205701a0248abc3c6230862bffe50cfd9889008c1e"
+        },
+        {
+            "type": "file",
+            "name": "inc/class-xgenious-login.php",
+            "size": 2601,
+            "hash": "2f2c69e03d20793038ed6384a0019ab4c5754486de95147ed59f223c868f2fd7"
+        },
+        {
+            "type": "file",
+            "name": "inc/class-xgenious-master-init.php",
+            "size": 8656,
+            "hash": "53037393cdeccdeb52c0b8959e3e1d9ebdc30465b2a0b8af7055ca323c559523"
+        },
+        {
+            "type": "file",
+            "name": "inc/class-xgenious-shortcodes.php",
+            "size": 8736,
+            "hash": "172902d90802e697218c13a10d8a06e624560a34e66fc873a16a14aedfe4cbdc"
+        },
+        {
+            "type": "file",
+            "name": "inc/csf-functions.php",
+            "size": 1336,
+            "hash": "8ef2bff00e51e8127ea7c9056be6a2b07329e99acda8b253b14c587081de7fc2"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework"
+        },
+        {
+            "type": "file",
+            "name": "wp-widgets/class-about-us-widget.php",
+            "size": 5032,
+            "hash": "6adc9d4726ddee7a9ebb8a43e4b288c83f6e314a116d52e705b1f0022e206461"
+        },
+        {
+            "type": "file",
+            "name": "wp-widgets/class-contact-info-widget.php",
+            "size": 3414,
+            "hash": "e40915bf72dce5c0e02edc0088bc6c1620c2436168bd528ddc399092541c7047"
+        },
+        {
+            "type": "file",
+            "name": "wp-widgets/class-recent-post-widget.php",
+            "size": 6477,
+            "hash": "2128910e70a29e9e500802d1999610143e0fdf383ce1439d454aa852cd6d75ee"
+        },
+        {
+            "type": "folder",
+            "name": "admin/assets/css"
+        },
+        {
+            "type": "folder",
+            "name": "admin/assets/img"
+        },
+        {
+            "type": "folder",
+            "name": "admin/assets/js"
+        },
+        {
+            "type": "file",
+            "name": "admin/partials/duplicate-wedocs.php",
+            "size": 985,
+            "hash": "b05b97c40c8e9d81ce16d84395a6110fe3ef5f6ae3a67381521e4fc22e232282"
+        },
+        {
+            "type": "file",
+            "name": "admin/partials/envato-product-extract.php",
+            "size": 1529,
+            "hash": "07541c4bc7e5f79366fb2b3e791ccdb13379d0075a944a11ff9081b3c547ad59"
+        },
+        {
+            "type": "file",
+            "name": "admin/partials/envato-purchase-verify.php",
+            "size": 1455,
+            "hash": "0a533a352c9eab465f4d797826c4d2a2e3ba03d835bf8801793e18a41af6bff9"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/animate.css",
+            "size": 75052,
+            "hash": "75a33bdccbadc38c64bf09f76d24d7a1b3fdf61c0915169cc3e7d9b5b07405c5"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/bootstrap.min.css",
+            "size": 144877,
+            "hash": "2c0f3dcfe93d7e380c290fe4ab838ed8cadff1596d62697f5444be460d1f876d"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/font-awesome.min.css",
+            "size": 31000,
+            "hash": "799aeb25cc0373fdee0e1b1db7ad6c2f6a0e058dfadaa3379689f583213190bd"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/magnific-popup.css",
+            "size": 6951,
+            "hash": "45d1f5f6cf913746c45dd697b1a8f3b719c02d8b3f678dc7fc2766d54e1aaf6e"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/main-style.css",
+            "size": 199665,
+            "hash": "a5844a140f92da0ff4cce7c5dbcccc4a6e2a2f268776dd0c9cb601d54b8a0ef7"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/owl.carousel.min.css",
+            "size": 4898,
+            "hash": "c5ad73c9e5b5ffcb94eaf514a204d7d3107257433da678d9ab220ad30ca53e56"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/responsive.css",
+            "size": 24202,
+            "hash": "e60b71a957f6c61855beb49df0c99955e59a48b4692a8d453d2bc4e95cb5a7d5"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/slick.css",
+            "size": 1736,
+            "hash": "4c359aa3bf5f7774a1daa6d5dc7bd9d15d383d648668c2bdbb913aa930763809"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/wedocs.css",
+            "size": 13600,
+            "hash": "5cbf4c0e8543c5f33a892c463dd94bb65bcd43e4f2c6eeccdb132fdda926f51e"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/Flaticon.eot",
+            "size": 13510,
+            "hash": "a5a02b53477678a8ad37b2994fe97ff63be135efdfb7096dbac75e6b2ad1557c"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/Flaticon.svg",
+            "size": 90925,
+            "hash": "6d4c90721f63fa1ceb0aa82b6457cee3f6ce92f3300eeb7d6d69b3f4307f68e0"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/Flaticon.ttf",
+            "size": 13332,
+            "hash": "49b56601e00e776e6f34a003da3373d3fd673350a7c2174d08eb34cec6a84a46"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/Flaticon.woff",
+            "size": 8768,
+            "hash": "28d428f874e3711236715a99103185415de9d344b589ed2492f11748509ae176"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/Flaticon.woff2",
+            "size": 7456,
+            "hash": "2b34a53a52b3eeee736b75ab36ae461d86a8fb71c9a7d9de0f895ac9fa0f0b86"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/FontAwesome.otf",
+            "size": 134808,
+            "hash": "444dd4366615ffc4a16d012b2fa90137065d3ccb410fa6fd5e4ddd7b5e4ffcd5"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/fontawesome-webfont.eot",
+            "size": 165742,
+            "hash": "7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/fontawesome-webfont.svg",
+            "size": 444379,
+            "hash": "ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/fontawesome-webfont.ttf",
+            "size": 165548,
+            "hash": "aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/fontawesome-webfont.woff",
+            "size": 98024,
+            "hash": "ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/fontawesome-webfont.woff2",
+            "size": 77160,
+            "hash": "2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/app-shape.png",
+            "size": 14023,
+            "hash": "33ac0aff73eb101b7244a6579010b28f410b68fd0ecfc0ec4f01fbc1328dff96"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/appside_header_shape_bg.png",
+            "size": 10896,
+            "hash": "b4c7a846d584757f065d5a73513e63f98b16f96f52ef4f1969164b028b4b8e9d"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/appside_header_shape_bg_1.png",
+            "size": 12076,
+            "hash": "c4f59ea1983bee4890fa3f4536b033a684b564f2138e6a42e9a413343856ed41"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/build-shapes.png",
+            "size": 35478,
+            "hash": "d24e586d110b658c3d9d4ba50efed404474554c8727ad68f765ac2cb583b4c99"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/quality_envato.png",
+            "size": 525,
+            "hash": "cdd92a7cba092786a3a518558a53e0a3f0986fb533d42e202f378f6e47a01cbf"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/work_shapes.png",
+            "size": 71831,
+            "hash": "f5596385165b4d90972e4d19d1fac8f332d6a225ed9ecf7183f94d09663fa7ac"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images/xilancer"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/section_title_shape.svg",
+            "size": 5426,
+            "hash": "f2241be5b2c41f7d372b7bcf978ea5cbf7d75f53020b26bf631f34abc5774ef4"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/bootstrap.min.js",
+            "size": 48944,
+            "hash": "e7ed36ceee5450b4243bbc35188afabdfb4280c7c57597001de0ed167299b01b"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/jquery.counterup.min.js",
+            "size": 1067,
+            "hash": "26d40f8ffdf1b9bf286a954c6888a33cda0cd031e802d821fe0c0562e379ae29"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/jquery.magnific-popup.js",
+            "size": 41730,
+            "hash": "c24ed0313cd813b049be4a3d06ccb03f34662b3842b4840a4ee37afc1f6c466c"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/main.js",
+            "size": 19765,
+            "hash": "c8e85c35921b4df8f3f42197d06e1d1c1f31ed63ba783e2528d8d166e7ae3dba"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/owl.carousel.min.js",
+            "size": 45462,
+            "hash": "4fdd1164609cd4d6650d61760a02ac74c11e1ee32bf7724e29accb8709a335ff"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/popper.min.js",
+            "size": 19188,
+            "hash": "a52f7aa54d7bcaafa056ee0a050262dfc5694ae28dee8b4cac3429af37ff0d66"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/slick.js",
+            "size": 89046,
+            "hash": "dbcaaf16138cb7eea984ca650ed7e2a4986a2387bb4efb221ac68ebd456bec4c"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/waypoints.min.js",
+            "size": 8044,
+            "hash": "a0fded691aed767f851011cd3185b928619298a21a0fbdad4808a9e88b490833"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/.DS_Store",
+            "size": 18436,
+            "hash": "9484ac4b2325343457b572ed9fe3edb92b9e98a7237075df4d4b9d454c7ce70c"
+        },
+        {
+            "type": "folder",
+            "name": "elementor/widgets/black-friday"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-aboutus-area-one-elementor-widget.php",
+            "size": 4817,
+            "hash": "e228c388f4ac52b6bdae6fd89aef7f03a0284e2aed4ce778f4851ddfdbc917e1"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-accordion-elementor-widget.php",
+            "size": 5401,
+            "hash": "d90bfe01b9c5b974d05d80cf21b6d098928f9aecde9054719fbfa25be88891a7"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-accordion-three-elementor-widget.php",
+            "size": 5158,
+            "hash": "5177a4c387fa3a98e720cc63858175592178b7781c3426f370f9fb52132b1744"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-accordion-two-elementor-widget.php",
+            "size": 5819,
+            "hash": "8a40ac37365cf7fbc6141b70bbbc081ac4ebb7c1d154ac7bb7f184a38c344100"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-advance-tab-one-elementor-widget.php",
+            "size": 5091,
+            "hash": "a32fd691cb67f514d10f91ddde4d7712a4ff396a21efaea7a882ddfa5d0c3215"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-advance-tab-two-elementor-widget.php",
+            "size": 5066,
+            "hash": "c0c10c7575cfccf1690e578a35e44619a8c76b95d25c6a668ed5625dac1b14a6"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-affilate-call-action-one-elementor-widget.php",
+            "size": 4705,
+            "hash": "2a8761464f80514f25c6a935b154dc921e53bc5fd51f89539f4addd8dc83c6df"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-affilate-guideline-elementor-widget.php",
+            "size": 5749,
+            "hash": "7023152d23857c274b2efd29d728e098c5e664e199757d177a5c3ce3f149ebcc"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-affiliate-header-area-one-elementor-widget.php",
+            "size": 4491,
+            "hash": "b5871990fce68fa79e4ab7d939ae79ae9bf7ac4e00712ec0a1b0ccd0ef56b985"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-affiliate-icon-box-one-elementor-widget.php",
+            "size": 5692,
+            "hash": "e74cddac4f5760b707a2fc6d01a72f062667a09c1bb30984092758b681475b51"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-black-friday-header-one-elementor-widget.php",
+            "size": 12581,
+            "hash": "36e910b1831760823a96ea5f71259779fc5d4010a078af554b72f9ae6da8ab0d"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-black-friday-product-list-area-one-elementor-widget.php",
+            "size": 8130,
+            "hash": "f42342d5f3d0448788ad5c4925738b07bfb4edffccb6c0fcc1057dee63577fec"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-blog-grid-one-elementor-widget.php",
+            "size": 7918,
+            "hash": "4abf941ade36d9c701c28618151025e2dd45ee86682d8472ea361e9b14bfeb35"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-breadcrumb-one-elementor-widget.php",
+            "size": 3194,
+            "hash": "92fd277e5264b2fa75e14b8bddea63d252abf9d0705f6aceface18d5300ef23b"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-call-action-two-elementor-widget.php",
+            "size": 5745,
+            "hash": "8d06bdba2a5f8c2d68539a6fbc1beb62e49800155c84d035c14e12e004e90682"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-call-to-action-one-elementor-widget.php",
+            "size": 2634,
+            "hash": "5a8e1a72ee8ec1c70aba848b841a403caaeee0477a53b891753db31244715fd3"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-career-with-us-one-elementor-widget.php",
+            "size": 4693,
+            "hash": "f582f822bae10a7f40e26a258061623b0c15cf3b85d203c7174324ad7af96f95"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-contact-one-elementor-widget.php",
+            "size": 9139,
+            "hash": "8606627ed7c28aaefe6b221dacdaab60eeb730147083eddbff6da7a82d99990a"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-contact-two-elementor-widget.php",
+            "size": 8322,
+            "hash": "cf3e071d633e9547ce2198233ba273cb46116a48d6db9305bfe69c2e36e108fa"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-counterup-one-elementor-widget.php",
+            "size": 3995,
+            "hash": "1ef7b2da0da23d440e263115acd90d476c217cfa5c9ff2f5e9a07acc6c5ec65b"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-faq-area-one-elementor-widget.php",
+            "size": 6097,
+            "hash": "b398e4bdaff284992403c409eab8bf201c42ced0d50bcc5bf50c3fe1d1d39d28"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-faq-area-three-elementor-widget.php",
+            "size": 3784,
+            "hash": "0ea326fd72a85faf636e9d132d195690854bc61a31e48b20669d4eef846fd0e8"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-faq-area-two-elementor-widget.php",
+            "size": 7409,
+            "hash": "c0ad6e4796cfc57acc07942e442157cb73dc0087040e62f4eb2b4f3c27d35cd0"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-featured-product-one-elementor-widget.php",
+            "size": 9742,
+            "hash": "8ccd50978949ff2e3e0dfd85e046312abc219a2791aaeea987cf1921f4e19d62"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-featured-product-two-elementor-widget.php",
+            "size": 7696,
+            "hash": "e9067dd03ec8f0b877b5aefad952067462975f01b4702a3e4a950ab26fb50eef"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-have-question-area-one-elementor-widget.php",
+            "size": 4155,
+            "hash": "b61ff306056d17c6a37989d35bfb30dd478cb2c00aa879ecccf93fdc2f56dc96"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-header-one-elementor-widget.php",
+            "size": 10181,
+            "hash": "8fbebea3e3a92a101bfde7bc9b145d70dcc1164f18e9c42821750b5462517d77"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-how-it-work-video-one-elementor-widget.php",
+            "size": 3980,
+            "hash": "19b03abee5df53eae924f5fe37703861225857517e9869cd1ee2b2be207f56d5"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-image-box-one-elementor-widget.php",
+            "size": 3565,
+            "hash": "bb14a22bd4035eb41da053d6f63256bc9c6e4b8c073e106bd75ad32e1a90eccd"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-info-box-two-elementor-widget.php",
+            "size": 4070,
+            "hash": "386429945e8a5bbc30a52d1eda361ed56dad8d703d567eef3c83e6649e46c951"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-job-list-one-elementor-widget.php",
+            "size": 7665,
+            "hash": "66615513ddfcf470e9a5d46c563aef33e76fedf19f2f508efd2efdc56e3ebd94"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-job-single-page-elementor-widget.php",
+            "size": 10565,
+            "hash": "f5548f51338aa0d4d8eec5aaf67ec7c773ac819667218eedb39f72d9affe7fe2"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-join-our-team-one-elementor-widget.php",
+            "size": 4229,
+            "hash": "34eafbe5b0d8f73af289171aff8e1d6da8fbf77c45d965a1e5b8a057959bf340"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-card-area-four-elementor-widget.php",
+            "size": 5844,
+            "hash": "a6c2b03901ccd6acef0fbad0ba09107ec4204166a5b2c13920cdbd21cc955eaf"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-card-area-one-elementor-widget.php",
+            "size": 7199,
+            "hash": "3967019286c26574af64bcf5b1a0c8c9dd4d6468e69bedddf39b1377a46eb16c"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-card-area-three-elementor-widget.php",
+            "size": 5887,
+            "hash": "a0ad56210b25a856926d99fbf181dded932f8594673cac6c3c5321160e894fc7"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-card-area-two-elementor-widget.php",
+            "size": 3338,
+            "hash": "81f78827d47cc68757a5acca55c99c53d58fe3b905e744877cddc045bec2febc"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-client-area-one-elementor-widget.php",
+            "size": 6795,
+            "hash": "678c568bcd330b02ba4c32306a61609bbdfb13fbc4e495ce185845526bf68517"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-feature-area-one-elementor-widget.php",
+            "size": 4919,
+            "hash": "bf3c253a35bcc7d287236468e98774d4ee34a769745011f2bf4a35eab25b26b3"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-feature-area-two-elementor-widget.php",
+            "size": 3867,
+            "hash": "a820379482ef0d1f3e23a0d99fc067311ba94ecf2f2f730cb9fc7f128363e49a"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-header-area-one-elementor-widget.php",
+            "size": 8311,
+            "hash": "98ba141e5a4c71f87e165ce0e0c9a5974ae8d5dc13d9daa28416d3a15553e289"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-header-area-two-elementor-widget.php",
+            "size": 11231,
+            "hash": "c8a380bd748f277ad1173a2a7ecd1ecb5da1b375fc192e51eed92cdf53ea0bc0"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-home-pages-area-one-elementor-widget.php",
+            "size": 7261,
+            "hash": "aa479dbe0772f2059e009ae8a59d88089dd6f3ac9a2bd86b418d2557872412ea"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-navbar-area-one-elementor-widget.php",
+            "size": 10771,
+            "hash": "61b0bc2bbabcdd8746a1ad59fdcf782a43c7361ba4f04d83cd722fe65b6190a0"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-mobile-app-area-one-elementor-widget.php",
+            "size": 6558,
+            "hash": "ffbf1c4acbd0e00e2e53d812a8d4647561a1fa868df86088abef7989f83c807b"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-page-card-eight-elementor-widget.php",
+            "size": 5545,
+            "hash": "2ab865a946a428dbf73f1463185b3de512a4ae6e2d067543ceb65c1813f1d586"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-page-card-five-elementor-widget.php",
+            "size": 5779,
+            "hash": "03d56c7af383729efe4fbef52830447102efc927bb57bcfc218775978b1f4c7c"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-page-card-seven-elementor-widget.php",
+            "size": 7351,
+            "hash": "c1bf00e13fe29f57db30348a1b69af8460de4635e417f61f51723226d7ba924b"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-page-card-six-elementor-widget.php",
+            "size": 7970,
+            "hash": "d49633749298b35d992754cb0e90d566555e124c9cf8aaeaee3bd2a221c3cc8c"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-page-payment-gateway-three-elementor-widget.php",
+            "size": 4227,
+            "hash": "b91e8302ed999cd39ff5c2d399e632f8c0c2c655f35ab1a6ad84d7f59c6c37d9"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-page-video-area-elementor-widget.php",
+            "size": 5362,
+            "hash": "0720bc8456d0933b8453b6867ea580080b390f8433e2c5c2022c7a5edeed6d45"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-payment-gateway-area-one-elementor-widget.php",
+            "size": 5249,
+            "hash": "1d50fb8853d644c31979cc994a3825408edb350642b18438781eaaf8135807b3"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-landing-sms-gateway-area-one-elementor-widget.php",
+            "size": 4581,
+            "hash": "de420761a3a5af07cafe571ca4118556677e32317207d345e1e6cebd1b146bfa"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-latest-product-one-elementor-widget.php",
+            "size": 9222,
+            "hash": "2819ad2428ae81c783bae68da25337836cf0f1baf0efb242fdfac98c844efe95"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-life-at-xgenious-one-elementor-widget.php",
+            "size": 4755,
+            "hash": "2434ea60b2054a8a5de4347644da1eae340ae5d464a99e8916e18f57d3c398e2"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-mega-menu-category-one-elementor-widget.php",
+            "size": 4883,
+            "hash": "1ed4a8f7f19a3d2652cf3133b7f073946a414928732928b710a5c65f1fcdd7d9"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-mega-menu-item-one-elementor-widget.php",
+            "size": 6226,
+            "hash": "92b9a3707b7496d7711d7d2ffa15c532dc2c8550ea4ec786fe24767edf4b4927"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-my-account-elementor-widget.php",
+            "size": 5785,
+            "hash": "45fa7ea4f322d9d6f39e828960f4edc5135b67931a27287205673615ba3cdcf7"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-newsletter-one-elementor-widget.php",
+            "size": 4123,
+            "hash": "33fdc1a5ae23562e31d645a4fdfeabfe09bfcb733e00683c1c2fdc5a9d303cee"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-our-expertice-one-elementor-widget.php",
+            "size": 4975,
+            "hash": "b0b55ac708635d5435ba9f81848873b6aaac19a5ef4241bb21bf56aa41b011cd"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-our-journey-one-elementor-widget.php",
+            "size": 7877,
+            "hash": "e55984fa69e8f474452214e04f33b9e1c6a6f12ab33a4faf017c0e01488f0e99"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-price-plan-one-elementor-widget.php",
+            "size": 7382,
+            "hash": "dde987e695354d545b4b0678895a9b0d5e403b553e99eea69d0f3e62f60bbb15"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-price-plan-two-elementor-widget.php",
+            "size": 9671,
+            "hash": "37208a98b31bae572a3427c8557ff56d86e16283da88f0cf5cd848f5b63f5d9a"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-product-box-one-elementor-widget.php",
+            "size": 5331,
+            "hash": "030b38cd60af16ea687a0f36e4d0eef8e39ed23630904df7d1f95bc56c697cf6"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-product-grid-one-elementor-widget.php",
+            "size": 9275,
+            "hash": "ebddb061362b8b819dff28159d98931d1cce7d5e552825cc5d9ba4ea119af6af"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-section-title-one-elementor-widget.php",
+            "size": 4281,
+            "hash": "5f32b0256445306ef377b0df11ffbff5b80e60b76d341c1815ca24f64884dedf"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-support-area-one-elementor-widget.php",
+            "size": 7825,
+            "hash": "116a37dd62baf082f64173770e708453c0b2a6c6f7f7c083793a619e3b00d6f0"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-testimonial-one-elementor-widget.php",
+            "size": 12083,
+            "hash": "2efa9f52f3b9998f0e5d6240b8a948319ebd37a3728c0e4c9550f231ad2f98e1"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-testimonial-three-elementor-widget.php",
+            "size": 6248,
+            "hash": "78e7d961878881976185f3f8b67acac16d08fe6e63e7d1d7b68615eb385228f9"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-testimonial-two-elementor-widget.php",
+            "size": 6446,
+            "hash": "202049369d7467a6d56cd1d163b43b6e1687d5db64c643795d7fa89ee586fc81"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-topbar-offer-one-elementor-widget.php",
+            "size": 4194,
+            "hash": "e8b964c1712648318a05556fa756d79bb4822ccbab53e36539417e37862cf3c7"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-topbar-offer-two-elementor-widget.php",
+            "size": 4692,
+            "hash": "0debac5b17ab53a5e4318ee37a846784f881c970db20fff686b534b21daff184"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-we-are-available-two-elementor-widget.php",
+            "size": 8545,
+            "hash": "cc726a13dcde0e1f53e974b6343b04488f711cdf97a9cb9c9f46dc1a81a3e84f"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-we-avialble-one-elementor-widget.php",
+            "size": 8624,
+            "hash": "33ac927396c429774cab7f3d75cb71a56abcbf8e1c3ae6e5d245f6e9b403ae78"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-wedoc-grid-one-elementor-widget.php",
+            "size": 7823,
+            "hash": "7339a82a2cc10ab60ec241a15d0f3f4b876689682589bba71ba8081c02a0c687"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-wedoc-search-one-elementor-widget.php",
+            "size": 3828,
+            "hash": "17f3b55753c80bad88a499b369fd0c7087afcab77d838b1b6f033448870121e0"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/class-whyus-one-elementor-widget.php",
+            "size": 4866,
+            "hash": "2b9f43679285f47441bc616808a1d7fccc719d5c3fec3bf81bbf7f361a236501"
+        },
+        {
+            "type": "folder",
+            "name": "elementor/widgets/fundorex"
+        },
+        {
+            "type": "folder",
+            "name": "elementor/widgets/nazmart"
+        },
+        {
+            "type": "folder",
+            "name": "elementor/widgets/xilancer"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/assets"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/classes"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/codestar-framework.php",
+            "size": 647,
+            "hash": "ecc9424f31234bfee97367f144ce952e67ed4ea3168b91ee6ca7b5ddea0dca62"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/functions"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/index.php",
+            "size": 28,
+            "hash": "c48fe6b757ddc30cc6d27924bbbdd8ec8a46bba76754c4ce8adb99ea32046fbe"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/languages"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/samples"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/views"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/css/admin.css",
+            "size": 4983,
+            "hash": "e3f1ef82c9c72d4279026ce0ae2cc607aed1734c038e785cdf2d40a188df66af"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/css/elementor-editor.css",
+            "size": 359,
+            "hash": "9ef95f6bd22fdee5faf41b519975477eda07db42633cf921ffce112adb79c9de"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/img/icon.png",
+            "size": 1378,
+            "hash": "2ca4cd38c3e49f732420ced410cd1b1b2c6a21d663c7ccfedf28180fe6e6ecb2"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/js/admin.js",
+            "size": 1205,
+            "hash": "ef8aae48a745c6546897e5eb6538e170a4e22425f4aa51f8b0eab81f9cab00ed"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/js/widget.js",
+            "size": 3582,
+            "hash": "cfc6ac82f0af112fdaeeb1ac75bf0b6b577d68b288109c9532f37f6b7ddc4334"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/xilancer/banner_bg.jpg",
+            "size": 22976,
+            "hash": "92b66214ae48dbc53eab6305d2852950f698024b278d11d76601195e36192c54"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/black-friday/class-black-friday-header-widget.php",
+            "size": 8745,
+            "hash": "e54ef4b63f8ba7846f5bdcccf43af4448b0fd5af5ab1f54daa6449483cd480cf"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/black-friday/class-black-friday-product-features-widget.php",
+            "size": 13615,
+            "hash": "3392f58883937e81dab07b5260d4cd4fb55a37b5388e73ec9d041eac8f9e3c48"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/fundorex/class-feature-one-widget.php",
+            "size": 9624,
+            "hash": "9a5863d67dd583ef89aeb18d3ecfa3c8eada128b4ed82f9ba70da022c7b1fd23"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/fundorex/class-fullwidth-feature-widget.php",
+            "size": 7218,
+            "hash": "f08d3c78bf7815b9c76f72d8b4d192b576e645464e6feaf77f0d4fa5321436c4"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/fundorex/class-header-widget.php",
+            "size": 18833,
+            "hash": "eb818ca96a819c6b1027fb59e185a53202a26a82ed081f2edea270bbabd71594"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/fundorex/class-responsive-one-widget.php",
+            "size": 6118,
+            "hash": "b4ba0fbf34fc987b4e0dfe19e7c7f1decb3008d965fed5889322d8b4ab501e36"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/nazmart/class-nazmart-cta-widget.php",
+            "size": 7025,
+            "hash": "8b6ca4d2080043c91608cf9e3e8a3dd815aa8cff91cc65b18fec2d8604fb6fef"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/nazmart/class-nazmart-feature-one-widget.php",
+            "size": 4406,
+            "hash": "1490718f86182957e2aebbad8fc6a18850b3466acb5d5e60eaf6ffc49443b158"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/nazmart/class-nazmart-feature-two-widget.php",
+            "size": 5508,
+            "hash": "c1fee4a3c2effcf7784f7138eedb427155b68eed058079e67d8272b61c871d38"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/nazmart/class-nazmart-full-width-feature-widget.php",
+            "size": 6311,
+            "hash": "b8120ab22d9450ceea9c8eab9c46d703293f34e852b138a4e210eafcbfbf6b46"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/nazmart/class-nazmart-header-widget.php",
+            "size": 17657,
+            "hash": "5bdb850dd06558e8ed01984df97a7c9d2c5bfb963ff1e1d25ea63a367e23e9fb"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/nazmart/class-nazmart-how-it-work-widget.php",
+            "size": 7563,
+            "hash": "d8e1a9caeeb4e643a019590fbea66a377f7a7650310af2559bb5a8799969212e"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/nazmart/class-nazmart-mini-price-plan-widget.php",
+            "size": 16591,
+            "hash": "2d15b2388ae1a036982b062752599a8c5b0a34b38936812e5c218242652dfab1"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/nazmart/class-nazmart-mobile-app-widget.php",
+            "size": 7308,
+            "hash": "61a454715900a67aca6a21bd93cc6b9c1a829fceb259cb38c755abed559efc8c"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/nazmart/class-nazmart-testimonial-widget.php",
+            "size": 9385,
+            "hash": "d481d8cfd5ede83099e5df17cfcfa371c7614f2f20f995f1c36a6fdf9eb0422b"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/xilancer/class-feature-box-three-widget.php",
+            "size": 13290,
+            "hash": "a865c8e6e642508e690939b64eb458ff8248b019690d1452aed0417f9b8aa926"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/xilancer/class-feature-box-two-widget.php",
+            "size": 5391,
+            "hash": "89f2752fdb814e1f31f5156f08ec26808c9b49ccd55a07c9d4cfe4eebeb047d0"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/xilancer/class-feature-box-widget.php",
+            "size": 5114,
+            "hash": "bdd59ac31b2467d5714ad6fa8071264507135dc67a7985d21f3e056db612213a"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/xilancer/class-feature-grid-widget.php",
+            "size": 8774,
+            "hash": "d4bfde325f9e25c327e78024508f7965eba54a0120d8909c34de65512b07baca"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/xilancer/class-full-width-feature-two-widget.php",
+            "size": 7100,
+            "hash": "a272191b35a1c2475912133683c151020fbb170708bf0fbbf28441080e526340"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/xilancer/class-full-width-feature-widget.php",
+            "size": 8055,
+            "hash": "ad2e99dadd3b842fb5e7d9dbceff12a41ddf27cc7168e58e6bd2396296c1fb9c"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/xilancer/class-header-widget.php",
+            "size": 14411,
+            "hash": "3759c4818a55fe7cfab0cad25c2c661c3c50ba09633686096fa9bfef17042fdd"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/xilancer/class-offer-animation-widget.php",
+            "size": 3512,
+            "hash": "d97d1ed2dbabbbca90daef8a4404d2eb214aa45b7903adbd7123d9de7c853c38"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/xilancer/class-price-plan-widget.php",
+            "size": 17399,
+            "hash": "43d6f037c4c6f2341c33e2802db9f872ccc2ae17ae53191966a5a78b0a10f76b"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/xilancer/class-ratings-widget.php",
+            "size": 4716,
+            "hash": "354ed14e51f3205f07d15aa0f566f2fbc0845335fbafb8d499ee5e287b371794"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/xilancer/class-single-feature-two-widget.php",
+            "size": 6648,
+            "hash": "bbe00b926c844ad4a23313c90031f021452d3268fd674c6d075c96d9ea77f027"
+        },
+        {
+            "type": "file",
+            "name": "elementor/widgets/xilancer/class-single-feature-widget.php",
+            "size": 5265,
+            "hash": "2876ecc61c2bdc97f2518464c1fd21173224252f74839ee881486e3a3a9c7ce2"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/assets/css"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/assets/images"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/assets/js"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/assets/scss"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/classes/abstract.class.php",
+            "size": 4202,
+            "hash": "5418e5d236318893fc111c1fab079e98951307a34df46137410be754b76a9c9a"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/classes/admin-options.class.php",
+            "size": 26341,
+            "hash": "18c520b493e13bfeb3b123b165e59718d02776b9ab8bb0dc47573314c9ae4b70"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/classes/comment-options.class.php",
+            "size": 11251,
+            "hash": "7c32707b0b6342b7f77c647e4e5da8e9b1a6ad2f6c40cd76b110e1d648fd34d2"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/classes/customize-options.class.php",
+            "size": 9232,
+            "hash": "b7b03da5bb4917fcf76309ced363ff49206215444a4bfb45405d6e386908e573"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/classes/fields.class.php",
+            "size": 11107,
+            "hash": "e8eaad9954b9b31da83cad1d631441d868ffc9c3e9858d354933a8b74f793474"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/classes/metabox-options.class.php",
+            "size": 14092,
+            "hash": "e7acee5ee3536cbdc7e04ba08729fbb07b8636b7396857ce97021ddbb637f00d"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/classes/nav-menu-options.class.php",
+            "size": 7901,
+            "hash": "d008a613e839cae738e118fb2a012271da8db5b8e259be77e215277cd9d91ce0"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/classes/profile-options.class.php",
+            "size": 7665,
+            "hash": "01fc484f87a07f56141f3db8ac8c8ba79f84c2e755eb9229d4f9a6fbde55a6fa"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/classes/setup.class.php",
+            "size": 26685,
+            "hash": "f79d0c6798ed7e526bb567f10a3cd1431c42938805156e35650a5937edf6fc89"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/classes/shortcode-options.class.php",
+            "size": 12852,
+            "hash": "4204c63963403dd9fdc3f48107526edffae6cf8cdb9566c6fe50af65bff51691"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/classes/taxonomy-options.class.php",
+            "size": 9282,
+            "hash": "52fbef06b34500920c46f77f331606b811b5ba9487cca2a72b2c845e5e9f6c7e"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/classes/widget-options.class.php",
+            "size": 3922,
+            "hash": "4f1b0cbf7b18c675f3555cc182a068abc8719324734dfd90bb236b62f356e9c1"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/accordion"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/background"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/backup"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/border"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/button_set"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/callback"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/checkbox"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/code_editor"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/color"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/color_group"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/content"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/date"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/datetime"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/dimensions"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/fieldset"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/gallery"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/group"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/heading"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/icon"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/image_select"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/index.php",
+            "size": 28,
+            "hash": "c48fe6b757ddc30cc6d27924bbbdd8ec8a46bba76754c4ce8adb99ea32046fbe"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/link"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/link_color"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/map"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/media"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/notice"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/number"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/palette"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/radio"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/repeater"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/select"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/slider"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/sortable"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/sorter"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/spacing"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/spinner"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/subheading"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/submessage"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/switcher"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/tabbed"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/text"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/textarea"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/typography"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/upload"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/fields/wp_editor"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/functions/actions.php",
+            "size": 5528,
+            "hash": "d4bc52379514469b51850d9a280210de037fbbd28488dd085d53704eb8a92ef5"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/functions/customize.php",
+            "size": 4431,
+            "hash": "daf33701580aed23a0a58117b336857d8f71a8c1c70dc89ac8601297dc5a68e9"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/functions/helpers.php",
+            "size": 1091,
+            "hash": "9e7c8d39cae10dce11c5ca5e8d3315ec871772195cca30119acfb6f23e28726f"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/functions/sanitize.php",
+            "size": 534,
+            "hash": "5d9fcb3398d9ea000f9150bbe74c0ebf52f3d24b773ec68e6e3adf281f9b24e0"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/functions/validate.php",
+            "size": 2802,
+            "hash": "d0172d581fa2e5cf281201ba02e5868d4b494e64dd4468ad194dd86cc76b841e"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/functions/walker.php",
+            "size": 752,
+            "hash": "83e37c15c11beb58cd79dc1fde2df350c36a8e7d70607e726c9138091723b64d"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/ar.mo",
+            "size": 4722,
+            "hash": "719183f26045bfd38e3f75661821af802ef7586a30e92db78d59447de8cb9ba9"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/ar.po",
+            "size": 15794,
+            "hash": "2bbbfc787e7fc518744f1060170e2a25f3869fb73f8a50f3c88f276b66145603"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/az.mo",
+            "size": 4247,
+            "hash": "98efc2e94e021daeea3d2912c6d06827e1e124fed52ba5dd4641b76501be6fa0"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/az.po",
+            "size": 15281,
+            "hash": "d58f02de4aaf260afb5bc430109283d22139f363c23e4192bfcefa87d8ac7f7a"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/bn_BD.mo",
+            "size": 5940,
+            "hash": "ffa744c52de40827a1491a0f5df7c0eef190af8150a6868c69f057c77f79c544"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/bn_BD.po",
+            "size": 17091,
+            "hash": "3981a99e5d50ab606cc5acd89c879718c7daf78eff7e3ec6166e59ad191e7b3b"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/de_DE.mo",
+            "size": 4269,
+            "hash": "686ce2801de2bae268cb3ccc69c4eff51926f3ec139011cf08de981780497b2e"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/de_DE.po",
+            "size": 15304,
+            "hash": "85332748a74e8f62780ccc17c57024495dd22f9827653d9728dedebc258b414e"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/default.pot",
+            "size": 14156,
+            "hash": "4fc7fe2d39a8ac92a04b1579a027c51b34e468395e90b8dadc3a552e7d848500"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/es_ES.mo",
+            "size": 4174,
+            "hash": "e3f98057d176c11dea6e5db42fe820597eafc60a6b21857f8503c5c6c03301f1"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/es_ES.po",
+            "size": 15212,
+            "hash": "b00bc2f13e3beca692e52aceb3339778adc95908b90f2088799e019fd049be10"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/fr_FR.mo",
+            "size": 4347,
+            "hash": "841dc0f272769cfedf087a08285de075a5986bafb0e8c084661e1da920202085"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/fr_FR.po",
+            "size": 15399,
+            "hash": "607c1a793e387e280b2abb86fbf50a05d6837415d58faf8d4554b63451d5357c"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/hi_IN.mo",
+            "size": 5840,
+            "hash": "cebec949e6e218d501f5e38db19d9b859eca64c129f8dcd77dd9668116631a1e"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/hi_IN.po",
+            "size": 16976,
+            "hash": "3d3156c0f251ec4298ccfda0eb4ee106c2c43f9d42275bcd6d05cefa8e83e327"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/id_ID.mo",
+            "size": 4048,
+            "hash": "37789a4f936b076bf8ccabc9bd33bcf7e917d09ca0ea398fdbef09c81e4c39bb"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/id_ID.po",
+            "size": 15071,
+            "hash": "4fe73cde3b1c91d5cc119d645b1666ff772dea93d4802e2b9c4e619c73d4fc58"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/it_IT.mo",
+            "size": 4111,
+            "hash": "a40a5796bb9aa34aacd0f067acdc17a986f8ad68c94fa28fe5bf593c26b4173d"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/it_IT.po",
+            "size": 15142,
+            "hash": "eddfe276926bc9e9ad2accf92ec4e3bda03f707bb943c75a27298c82bba155ae"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/ja.mo",
+            "size": 4520,
+            "hash": "23149114d4d15e20c188a8f7726615d9bc3251419f91496bac9e541cb55f0de2"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/ja.po",
+            "size": 15597,
+            "hash": "056e34434a4abaf3d50b17b7472183a8deb128e740d3d13ede772745b114c2fd"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/ko_KR.mo",
+            "size": 4185,
+            "hash": "c86d678865ac06a7e374886be25d4170bb9c32b32cec7267f25526da7e43ca19"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/ko_KR.po",
+            "size": 15221,
+            "hash": "3c74ae7f8945c9a9d7e2d639fe7e71beb2ad8bdd6f98db7db9b17d4550e81e15"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/ne_NP.mo",
+            "size": 3439,
+            "hash": "ac2db6c9acb7fb558f5360efcb23e534ae3c8195e32e5ffac9a7acdd57914ae4"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/ne_NP.po",
+            "size": 15554,
+            "hash": "48232c2e8693de7afaa977bc6f1d01cd5fe51985d97c9ca7da93e33fe2eed931"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/nl_NL.mo",
+            "size": 4144,
+            "hash": "8ac46bcaec8f2f04cc25dc7cef40b58bc13dcf422bf08358c88deeb1720190c4"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/nl_NL.po",
+            "size": 15189,
+            "hash": "9290a3b4d56aa22c448b24de95034dab42a68e731cd6104c228537b12bb8a938"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/pl_PL.mo",
+            "size": 4113,
+            "hash": "030e6e65a8845617871b86ee845fb45667cdbec684083a11910258f3e31161cb"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/pl_PL.po",
+            "size": 15133,
+            "hash": "d359a43fa6bb9d13872367dd121674afb6b2f56e1e6d4bfc36f642546696c6b0"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/pt_PT.mo",
+            "size": 4062,
+            "hash": "09be0bc58cc88be3284323421c0fd352e351526588ccbdabe2cda0267e9b68e2"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/pt_PT.po",
+            "size": 15092,
+            "hash": "65451b4f25cca31b0e12f210f4a4f9379a8da81d9f70a801c383776731d3d850"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/ru_RU.mo",
+            "size": 5087,
+            "hash": "b8f9f32c8b9480e649dc67ee4aaed22d69e86957bdefc09ae71e0866e4693b85"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/ru_RU.po",
+            "size": 16168,
+            "hash": "6bfb742d97f00b0f4e045b0c8c269ae18ea8def58c09a6caaf0bd09b7d32ca32"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/th.mo",
+            "size": 5835,
+            "hash": "c8b7869f6bf09b4705ff4e82ec4c8aedc8b4ee11cee505a758b65f2919735bb0"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/th.po",
+            "size": 16924,
+            "hash": "37ec60d38abb0cc733bd2e6d80053d9d37e6c110b8e407f6e1f22f3061e55202"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/tr_TR.mo",
+            "size": 4198,
+            "hash": "52cc4048b0f234350cad59046d94fe3d927604bd855bc07d4d9ae6b8da88679b"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/tr_TR.po",
+            "size": 15212,
+            "hash": "0e4e48ccbbc0bbb27af74855edbe9a106491d7be234d1701ec8f333734489598"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/vi.mo",
+            "size": 4362,
+            "hash": "7e641a73fd57b1fca9952db2e4bdfacf2efceb680a019a9eaee1ac0d065a4149"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/vi.po",
+            "size": 15388,
+            "hash": "ba3262d30a823d7d32347d1aa9b26c1868df2e38834a91ea126430699ea7aaa5"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/zh_CN.mo",
+            "size": 8354,
+            "hash": "58c528ffc2a54aadf2044c0a523c16823b0a1ae550d828c500ca6bdc8e371286"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/languages/zh_CN.po",
+            "size": 16811,
+            "hash": "0479ba11fa4c6219ca49890c8550d74cb2d3ac3609d86186a0d803cf1a589ced"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/samples/admin-options.php",
+            "size": 103746,
+            "hash": "b05dadfa9f433231a866b1118fcdd02eadde0fe8614f7caed8ef08832bd82702"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/samples/comment-options.php",
+            "size": 1766,
+            "hash": "90a44c2dc1b9e3226b86f2718a6e905a34f77da405761580b0a1981a3e6559ce"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/samples/customize-options.php",
+            "size": 99311,
+            "hash": "36da43df9758f2e213eb7fc7327944779ca2de667211a9b1cec956b3fe4b1022"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/samples/metabox-options.php",
+            "size": 6307,
+            "hash": "1627b740ac97c9c4f650e601e05adac1a5de07b61070bf6be69fcfb2db69ae9b"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/samples/nav-menu-options.php",
+            "size": 1846,
+            "hash": "c5cbde34978fc78da3a904cc958acba747e1b6a9f63cfe439cc16fabc795976a"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/samples/profile-options.php",
+            "size": 1794,
+            "hash": "9d34d9306ef3c918ccbe9d16cf6bdd6db1f865cc798796b15127f9a182e56467"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/samples/shortcode-options.php",
+            "size": 5723,
+            "hash": "778f7d0f00a35952321db14b1616fcc59755756b8af588f1517c7cd028e82fc2"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/samples/taxonomy-options.php",
+            "size": 1756,
+            "hash": "984794fb28abfe1829da2d649092232e027b277cb08b1c3378a40ec32bbc270b"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/samples/widget-options.php",
+            "size": 4958,
+            "hash": "7542ba696f86ada1d56df6574b0fb60b8af5c7eb16bd509e45ba23eefc4aaedf"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/views/about.php",
+            "size": 7139,
+            "hash": "5380f78cdb663a81097d54ca7c683371e3f2fb5996c358760ae4988845298695"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/views/documentation.php",
+            "size": 331,
+            "hash": "5fa0f67d9ca1a5022060756974ce9abde4f896b5714202041483a18b58c4c2ed"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/views/footer.php",
+            "size": 83,
+            "hash": "13c76e0372b64d0c09f88a25b71d28bac979cd865115325044ec28f2654fddfe"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/views/free-vs-premium.php",
+            "size": 3217,
+            "hash": "0cf9b04af77e3cfa72896e2358b85c81628b8f6c9d9aac667520c22d563df36b"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/views/header.php",
+            "size": 2001,
+            "hash": "5d1e5658fb6feb6279cead7fe90480c484247ba89776ac4fb8f3c1c419813eef"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/views/quickstart.php",
+            "size": 1634,
+            "hash": "12946dec3e808ccd6a9ff33d3630dc2e7eddb506ebf929812cf40ca5e72c8859"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/views/relnotes.php",
+            "size": 14107,
+            "hash": "3a46989fae275831a40da22d4cd4186403aac7be0e991f28decc215e9d5d1fb6"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/views/support.php",
+            "size": 568,
+            "hash": "0269fd09f1df6f477bd77834c9eb0d465db98c69093bc065292bc868f2d0511f"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/views/welcome.php",
+            "size": 4035,
+            "hash": "87fe10f1c051940f49f94e8bd4dc1fc09b4cb92c0056253e4bef341bdfce85cc"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/css/style-rtl.css",
+            "size": 9475,
+            "hash": "04adcc195320519e0904c9b7f39cd9325427f67b4ebae0c08c1caed0161dd295"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/css/style-rtl.min.css",
+            "size": 5622,
+            "hash": "76ca6a865838e00f318230305cbe61e22090bce3c4674facc9235b88db96d89a"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/css/style.css",
+            "size": 104467,
+            "hash": "576ca314bff76eaaadf76d126a6dcf7a478bed3b86fb75ac5d47590de255c006"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/css/style.min.css",
+            "size": 84060,
+            "hash": "202ca58a5c036786dd9d0c1439c6480eafd8806365f53402c5f533b9a2e4e7fe"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/images/checkerboard.png",
+            "size": 2340,
+            "hash": "1df29a767945751132f97010d914a7d89a31bf9cb4d2843665eb3860bf19dbd5"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/images/wp-logo.svg",
+            "size": 940,
+            "hash": "c8c762080f6f3cc20d4c635a2a75726a99aa78b126f9e0ed9016e4210be6968c"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/images/wp-plugin-logo.svg",
+            "size": 482,
+            "hash": "f86ed6fa5f4128e7e6c5c33bd44214a4cfc800e5d69ea7faabeeea167b4f1aec"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/js/gutenberg.js",
+            "size": 2249,
+            "hash": "ef84552686bf57ef6cc16e15a6fff16faaea0e1cd31378c1e6b38c798130a559"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/js/main.js",
+            "size": 99302,
+            "hash": "6e2f1a3ca3d7dde80fbae5fe8f395489cf6892f5cee147376cf085ecf116fe8f"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/js/main.min.js",
+            "size": 47277,
+            "hash": "71ae5d0c5d53fdcc1020cdc9083d01c1dee0133390dcb8a3093abc1150af159d"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/js/plugins.js",
+            "size": 188190,
+            "hash": "8041580f8070de25ccae0c3ba374fe6efe89d141ae59921a7e2f1a3ff57f7058"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/js/plugins.min.js",
+            "size": 87800,
+            "hash": "e50cde9c3354d6cafa72396bc12b37994a3262c00ca450ec5dd68beb8a193003"
+        },
+        {
+            "type": "folder",
+            "name": "lib/codestar-framework/assets/scss/partials"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/scss/style-rtl.scss",
+            "size": 9170,
+            "hash": "9953221c63ce95cfa2b9c2495baa62d9935f167cb7fd0c851952016b3575e183"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/scss/style.scss",
+            "size": 2581,
+            "hash": "b6f5859dc2a1ab05ce02c391564513f3edd43f985440324cc6bf3387bd95b29c"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/accordion/accordion.php",
+            "size": 1881,
+            "hash": "b63203a5710b2c663c915d2b774694cad5cb58fb73c16e76122422de5236ff51"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/background/background.php",
+            "size": 12911,
+            "hash": "38886ded0f54a3b924788dba8363bf82147d230ad32fa087d2addfd8d83fff78"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/backup/backup.php",
+            "size": 1635,
+            "hash": "e8025618068fe9fa07e97bd1b724f8f3853c65923eaa89e3ddf7d172ad32d5f8"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/border/border.php",
+            "size": 7970,
+            "hash": "9c97b902900d89f48c63d9b7016bc246df6375c3d8fc66f77c88c58b492cadbe"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/button_set/button_set.php",
+            "size": 2169,
+            "hash": "eb3569cdfafc55194ee18123604b1b8ee7c2c85ba0359c33c1582abe62078cb6"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/callback/callback.php",
+            "size": 705,
+            "hash": "b0b666f63ba1d6b4a72d3ddb29e83a76414ee60e80608537734108ab322de015"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/checkbox/checkbox.php",
+            "size": 3375,
+            "hash": "5d244310169bd2fb63d04640d292e55137d866095264a24504917abc8f2acf0e"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/code_editor/code_editor.php",
+            "size": 2088,
+            "hash": "c5925bcafe5cae94bfcd43f121cb8e9f303ab77d60a585ccf7a827eb707abe3c"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/color/color.php",
+            "size": 1744,
+            "hash": "ffb91cb06ecfa544def898d3c15e40af2e352d6a43ed4d3fb66e81c888871382"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/color_group/color_group.php",
+            "size": 1326,
+            "hash": "59c750bf2d3a71f81b86566d639654db56439fc58daf754ac8461acf33c99d4c"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/content/content.php",
+            "size": 556,
+            "hash": "44e21015e6126db441534d3364fe503331946e1fb3c518be03e5719f509f9d67"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/date/date.php",
+            "size": 2005,
+            "hash": "997cbd6bb8296e095637cff62fcde30ffe5776d9fb34140a94fb550236456968"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/datetime/datetime.php",
+            "size": 1978,
+            "hash": "6dfae8059a81366d7d5610dcd7965a030d2c0a722bdccd78d12a59ead3928bdc"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/dimensions/dimensions.php",
+            "size": 4476,
+            "hash": "c4d8993c53835e16215f3151137c12d8802b8d7ee40563e94e715098b3d60da4"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/fieldset/fieldset.php",
+            "size": 1176,
+            "hash": "760cccd761d101cd977e4af4306cebe731592e06d2a120d63abe09e4fdb30b9e"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/gallery/gallery.php",
+            "size": 1655,
+            "hash": "d3ddc3de81dd2ef289dddf1eeda6c504b31fd37aa275e83e8322e182d4428d13"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/group/group.php",
+            "size": 6675,
+            "hash": "fa0d30075d2ab819b005bdc68023b64ed389ba196c0fa5719f57d1c2663852db"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/heading/heading.php",
+            "size": 540,
+            "hash": "f6cd5d19c37cfef11f1f3474f97c10bc89093246d5eb278afc4381d7005e7a78"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/icon/fa4-icons.php",
+            "size": 12647,
+            "hash": "cd80fc072e425698a9cf82d4c5311435fccb537329322506e5e6394f5b27a8a3"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/icon/fa5-icons.php",
+            "size": 31698,
+            "hash": "07fc16753b868b10ed330df764497f14eecd23951d7f211dc99a39e27456b28e"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/icon/icon.php",
+            "size": 2661,
+            "hash": "5704ca73aeb083daac8b861acf612c6548f5320b43d30c2e282c7fa138533815"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/image_select/image_select.php",
+            "size": 2443,
+            "hash": "57d613786e6bd7b9c1a66158e459c1bc7f57d5e5594c3cee71128ee5e7728d49"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/link/link.php",
+            "size": 2868,
+            "hash": "e6f36a61ec5bdebaa3109131eff33138575a86eae60f332c1184b56da31e629c"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/link_color/link_color.php",
+            "size": 3341,
+            "hash": "b32a56f1e0e2662813ab0416582812014cbb12da1a4cbf38e9c7008329285a61"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/map/map.php",
+            "size": 3721,
+            "hash": "03d3977fcf4bd7774acf0a7849ccbcfd1c4cc711bc9692e47813d75588f1f3ad"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/media/media.php",
+            "size": 4767,
+            "hash": "d33623098aae70f31f2d802d17196f82c782938b0d3f19affe058806f86376c3"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/notice/notice.php",
+            "size": 700,
+            "hash": "f8e27d78e358d1c5b1c5d4df5aa975d3aaa2c720e8677d8da5646f0603934c8d"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/number/number.php",
+            "size": 2168,
+            "hash": "7b721a167d23d6f336a3796e4a2c4d842b9d1d0af31fb5dbd737cf135675ea8c"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/palette/palette.php",
+            "size": 1427,
+            "hash": "8a384da6f365d37867138374d1f2ef66980225de34c0e91de1959277bd69316b"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/radio/radio.php",
+            "size": 3135,
+            "hash": "e22fa4d59f4f5f4c283b52c9e9c9261ec1ec0d18dd43189a0a0575d7df662aab"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/repeater/repeater.php",
+            "size": 4009,
+            "hash": "cbede659c945ea1c46552efad4ddf9c8d8883140755edee238a156630169bde4"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/select/select.php",
+            "size": 5028,
+            "hash": "2ae6ea9e41e5c80d7e2b481340de729fb3cd11a55f6e5f3e9305be00649e0f6d"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/slider/slider.php",
+            "size": 2578,
+            "hash": "b813ede25b910f7f99929766fdeb3129986ab3ff954e0d39125cf15ed0942550"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/sortable/sortable.php",
+            "size": 2238,
+            "hash": "d04b24e8e0197a38bead0b606c5525f00aa820df57aaa441931f6c0a8dc4b451"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/sorter/sorter.php",
+            "size": 2578,
+            "hash": "98af1febf7f38b2ce04b395a03261af02358f376312cf11acc880dcb97b95b0f"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/spacing/spacing.php",
+            "size": 6898,
+            "hash": "c8ed0e52c6f3cce273709991c4b6c36aefa2162f6dea41a6a3ba5a80088caaa0"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/spinner/spinner.php",
+            "size": 2283,
+            "hash": "d4c6b6f8a451f3179ab4cea4c35a8c9ce2aeb887b745ea19bd88d90a39d5878f"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/subheading/subheading.php",
+            "size": 549,
+            "hash": "afc1cd7baf19bfb0ad9dcede8d1e261e5fd73e96e0384b8eb78538bd31565e8f"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/submessage/submessage.php",
+            "size": 674,
+            "hash": "0b1d89a742895bd489348685f19ef31fbf327e970af3d9202b0256081878a020"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/switcher/switcher.php",
+            "size": 1546,
+            "hash": "afa606ab3067285bb6aa3a2ebe290520b88987e2ed1f98ccbdf07abca73d9f36"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/tabbed/tabbed.php",
+            "size": 1977,
+            "hash": "4dda92c4d151231ac14653cfdc1afe2f290a2f6e76cbba53254b26ff6949f3c1"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/text/text.php",
+            "size": 800,
+            "hash": "278885fb210a6f6f3a1e44f01c638f857bd9f4d464c7d1b7e5372e8d008e0383"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/textarea/textarea.php",
+            "size": 1331,
+            "hash": "007ec346011f919c6a03ce8e39b3fa9c7537a1e24d21e173979bdc9833778e61"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/typography/google-fonts.php",
+            "size": 110325,
+            "hash": "4eda36b2459a69e61b9b9fc56b6ba110fbef849c45ac7f91b324cd411a8fc8ed"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/typography/typography.php",
+            "size": 23055,
+            "hash": "76722721fbbefec0113d93798a7441ef7af3998c114b4379deecdb1fb75ab812"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/upload/upload.php",
+            "size": 2720,
+            "hash": "ef0c16b8dae0b079903d2325e8b4fb0e21b3d840ad69ccee20692c7f0c0f221e"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/fields/wp_editor/wp_editor.php",
+            "size": 2865,
+            "hash": "b6818cad9c45f3be52a8fc70276301750663c633376990838f204e87eda4a0fe"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/scss/partials/_base.scss",
+            "size": 6193,
+            "hash": "9ea456fae0c8a60f6d3309896b4a9fc86d8748dbaafe4fb6e23aa2f8261ee485"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/scss/partials/_chosen.scss",
+            "size": 8329,
+            "hash": "eb45039a02310205f67b40b6754dce38accb6407b16f2884dca3e8d6ab5fc971"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/scss/partials/_customizer.scss",
+            "size": 2514,
+            "hash": "868c2e920a7a22856bac587672b24a42c1ca50d2b93abc8b0243f2711c440e67"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/scss/partials/_fields.scss",
+            "size": 36856,
+            "hash": "9f1506fe47c02f1909f85b75f3d0dc246bdc74b98fac11782724932ec9711d3a"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/scss/partials/_flatpickr.scss",
+            "size": 19024,
+            "hash": "dd31a7c47248c8d3276462502c2820db5591c7673747fc95e9cbee7f5d805dc2"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/scss/partials/_helper.scss",
+            "size": 2233,
+            "hash": "a6e6ef24333a2dffa8a076c89de7dc3b0ebb7bf203a5821633c0e7c7f7e1fb41"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/scss/partials/_modal.scss",
+            "size": 5066,
+            "hash": "39f5a0df0f26ecf08a1663d5dbd91ef292b776ecb868b6c74520852d1b47c67f"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/scss/partials/_navmenu.scss",
+            "size": 806,
+            "hash": "f716940b35af6e03bf14d78f1cede60ddd52ec6456bd6a5ded6a254ebfab20eb"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/scss/partials/_profile.scss",
+            "size": 1050,
+            "hash": "1b75a096a8ec93d0d629b8c7c73be64daba460cf3737e0a35d1ec3cc3bd2fe9c"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/scss/partials/_responsive.scss",
+            "size": 2086,
+            "hash": "58b6810aba7d2e7c2b2e62d1d2f0e4f8b926210cdfa9ab94b467f0e7978084b5"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/scss/partials/_taxonomy.scss",
+            "size": 1726,
+            "hash": "ff00bfb94771f2422129e3249dce894ed03e5c4c68e3de330447bea49f581a0b"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/scss/partials/_themes.scss",
+            "size": 4426,
+            "hash": "910fd4e984b899234fe01b3855bacc24941c77f10c058ae02d60b5310b05433b"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/scss/partials/_welcome.scss",
+            "size": 5343,
+            "hash": "625cad36865a572910b364feb331ae1f0840d948caa3f378dd538df3f6d00c8e"
+        },
+        {
+            "type": "file",
+            "name": "lib/codestar-framework/assets/scss/partials/_widget.scss",
+            "size": 840,
+            "hash": "01eed0c336f4f2df8d02a634b4a47a2540df7a67a6ddfdda5f9f31f1a8a9bfb1"
+        }
+    ]
+}

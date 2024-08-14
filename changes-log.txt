@@ -1,0 +1,10 @@
+Date: 11 September 2021
+version : 1.0.8
+-----------------------
+added support for duplicate Wedocs
+
+-----------------
+version : 1.0.7
+added wedoc support
+modified wedoc single page
+
